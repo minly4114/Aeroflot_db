@@ -1,0 +1,9 @@
+Номер рейса;Бортовой номер;Время вылета;Время прилёта;Дата полёта;Город вылета;Город прилёта
+AFL77;A2;8:15;10:14;16.11.2017;Moscow;Argentina
+AFL40;B5;7:30;9:20;17.12.2017;New-York;Kiev
+AFL45;R13;22:22;23:23;19.11.2017;London;Moscow
+AFL99;F11;15:30;18:55;15.11.2017;Sankt-Peterburg;London
+AFL11;B3;14:09;16:00;18.12.2017;Argentins;Samara
+AFL109;D4;9:25;13:05;22.12.2017;Ulyanovsk;Novosibirsk
+AFL25;K30;13:00;15:40;13.12.2017;Moscow;Minsk
+AFL48;V10;11:15;12:45;13.12.2017;Minsk;New-York
